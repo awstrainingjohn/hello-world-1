@@ -1,5 +1,5 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on Container. lol update </h2>
+<h2> Deploying on Container.</h2>
 <h3> I have mastered the CI/CD pipeline </h3>
 
 <!--<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
